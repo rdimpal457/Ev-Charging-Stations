@@ -1,5 +1,6 @@
 ⚡ Electric Vehicle (EV) Charging Station Analysis
 This project focuses on analyzing the infrastructure of Electric Vehicle (EV) charging stations. It involves data cleaning, exploratory data analysis (EDA), and interactive visualization to understand the charging landscape.
+![Ev Charging Dashboard](Dashboard preview.png)
 🛠️ Tech Stack & Tools
 Python (Pandas, NumPy): Used for data preprocessing and cleaning raw datasets.
 Power BI: Created an interactive dashboard for regional and trend analysis.

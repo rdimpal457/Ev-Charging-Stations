@@ -4,7 +4,7 @@ This project focuses on analyzing the infrastructure of Electric Vehicle (EV) ch
 Python (Pandas, NumPy): Used for data preprocessing and cleaning raw datasets.
 Power BI: Created an interactive dashboard for regional and trend analysis.
 Machine Learning: Applied Linear Regression to understand growth patterns.
-📊 Key Insights & Features
+📊 Key Insights & Features:
 Regional Distribution: Visualized the density of charging stations across different cities.
 Connector Analysis: Compared the availability of Fast vs. Slow charging types.
 Trend Forecasting: Analyzed historical data to identify the rise in EV infrastructure.
